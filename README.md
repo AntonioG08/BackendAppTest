@@ -6,7 +6,7 @@ This is the final version of a back-end application ready for its use. It has an
 FIRST STEPS INSTRUCTIONS
 
 Please NOTE the next first steps to start using this app:
-First you need to create a folder where you will hold this application. After this you need to create the virtual environment. You will need to go to the 'cmd' (windows + r and type 'cmd'). After this, go to the location of the application and use the command 'python -m venv'
+First you need to create a folder where you will hold this application. After this you need to create the virtual environment. You will need to go to the 'cmd' (windows + r and type 'cmd'). After this, go to the location of the application and use the command 'python -m venv .'
 Then go to the folder 'Scripts' (cd Scripts), this folder will be create once you create the virtual environment. Here you will active the virtual environment with the command: 'activate.bat'
 Once this has been done we can go back (cd ..) and install the required libraries that come in the script 'requirements.txt', for this we will use the following command: 
 'pip install -r requirements.txt' please NOTE that the libraries already come with the needed version. Further versions had not worked, you could try using further versions but they might 
